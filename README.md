@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/DevangVartak" target="blank"><img src="https://img.shields.io/twitter/follow/DevangVartak?logo=twitter&style=for-the-badge" alt="Devang2304" /></a> </p>
 
-- 🔭 I’m currently working on **Pomodoro Timer WebApp**
+- 🔭 I’m currently working on **Amazon Price Tracker**
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **devangvartak2304@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am always open to help and collaborate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
