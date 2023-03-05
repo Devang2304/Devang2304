@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/DevangVartak" target="blank"><img src="https://img.shields.io/twitter/follow/DevangVartak?logo=twitter&style=for-the-badge" alt="Devang2304" /></a> </p>
 
-- 🔭 I’m currently working on **Pet Finder WebApp**
+- 🔭 I’m currently working on **Match WebApp**
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 💬 Ask me about *web development , MERN**
+- 💬 Ask me about *web development , MERN*
 
 - 📫 How to reach me **devangvartak2304@gmail.com**
 
