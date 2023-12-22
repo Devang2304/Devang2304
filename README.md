@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/DevangVartak" target="blank"><img src="https://img.shields.io/twitter/follow/DevangVartak?logo=twitter&style=for-the-badge" alt="Devang2304" /></a> </p>
 
-- 🔭 I’m currently working on **SyncPulse CLI**
+- 🔭 I’m currently working on **Data Migration CLI**
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
