@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/DevangVartak" target="blank"><img src="https://img.shields.io/twitter/follow/DevangVartak?logo=twitter&style=for-the-badge" alt="Devang2304" /></a> </p>
 
-- 🔭 I’m currently working on **Data Migration CLI**
+- 🔭 I’m currently working on **CloudLaunch**
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
-- 💬 Ask me about *web development , MERN*
+- 💬 Ask me about *Backend development , AWS*
 
 - 📫 How to reach me **devangvartak2304@gmail.com**
 
-- ⚡ Fun fact **I am always open to help and collaborate**
+- ⚡ Fun fact **I am Funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
