@@ -4,12 +4,12 @@
 A passionate full-stack developer with a strong problem-solving mindset and a knack for designing scalable solutions. With experience spanning across microservices, cloud technologies, and backend systems, I thrive on tackling complex challenges and delivering impactful results.
 
 - 🚀 I’ve built scalable backend solutions that optimize performance and reduce costs through data analysis and architecture improvements
-- 💡 I'm passionate about using cutting-edge technologies like AWS and DynamoDB to optimize performance and reduce costs
+- 🛠️ I'm passionate about using cutting-edge technologies like AWS and DynamoDB to optimize performance and reduce costs
 - 🌐 My tech stack includes ReactJS, NodeJS, AWS, Docker and various Databases
 - 🤖 I’ve explored AI/ML integration in practical applications, including LangChain integration and audio/image generation
-- 🔒 I'm currently working on building a **Scalable Notification System** from scratch
+- 💡 I'm currently working on building a **Scalable Notification System** from scratch
 
----
+
 
 #### Languages and Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
@@ -24,21 +24,30 @@ A passionate full-stack developer with a strong problem-solving mindset and a kn
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
 
-#### Quick Stats:
-📊 Projects Completed: 10+  
-🏢 Companies Collaborated With: 2+  
+
+<h3 align="left">Quick Stats:</h3>
+<p align="left">
+📊 Projects Completed: 10+<br>
+🏢 Companies Collaborated With: 2
+</p> 
 
 I'm always on the lookout for innovative ideas and challenging projects. Whether it’s cloud computing, full-stack web development, or AI-powered applications, I’m excited to dive in and create something meaningful.
 
-🌱 Currently expanding my knowledge of distributed systems and cloud architectures  
-💬 Ask me about backend architecture, AWS, or any of my recent projects!  
-📫 Reach out to me at devangvartak2304@gmail.com  
-📄 Check out my [resume](https://drive.google.com/file/d/1hoOz34lFU56-M50o_AB8sen5k1Zj_pQa/view?usp=drive_link)  
-🔗 Explore my [projects](https://github.com/Devang2304?tab=repositories)
+- 🌱 Currently expanding my knowledge of distributed systems and cloud architectures
+- 💬 Ask me about backend architecture, AWS, or any of my recent projects!
+- 📫 Reach out to me at devangvartak2304@gmail.com
+- 📄 Check out my [resume](https://drive.google.com/file/d/1hoOz34lFU56-M50o_AB8sen5k1Zj_pQa/view?usp=drive_link)
+- 🔗 Explore my [projects](https://github.com/Devang2304?tab=repositories)
 
 Let’s connect and build something incredible together!
 
 ⚡ Fun fact: I prefer minimalistic coding approaches, optimizing both for performance and maintainability.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/devang230403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevangVartak" height="30" width="40" /></a>
+ 
+</p>
 
