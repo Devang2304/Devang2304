@@ -7,7 +7,7 @@ A passionate full-stack developer with a strong problem-solving mindset and a kn
 - 🛠️ I'm passionate about using cutting-edge technologies like AWS and DynamoDB to optimize performance and reduce costs
 - 🌐 My tech stack includes ReactJS, NodeJS, AWS, Docker and various Databases
 - 🤖 I’ve explored AI/ML integration in practical applications, including LangChain integration and audio/image generation
-- 💡 I'm currently working on building a **Scalable Notification System** from scratch
+- 💡 I'm currently working on building a **multi-language notification system** from scratch
 
 
 
